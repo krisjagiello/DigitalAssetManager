@@ -100,7 +100,7 @@ The goal of this exercise is to demonstrate an approach to buildig a digital ass
 
 ### Core Tech
 - web2 backend (NestJs+Postgres)
-- EVM marketplace (promary)
+- EVM marketplace (primary)
 - EVM marketplace (secondary) 
 - Provenance NFT
 - Agreement NFT
